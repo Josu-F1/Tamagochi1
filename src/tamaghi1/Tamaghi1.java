@@ -18,6 +18,7 @@ public class Tamaghi1 {
         
         System.out.println("hola3,4");
     
+        System.out.println("hlaaaaaaa");
     }
     
 }
