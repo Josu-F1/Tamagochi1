@@ -15,6 +15,8 @@ public class Tamaghi1 {
      */
     public static void main(String[] args) {
         System.out.println("Hola mundo aqui toy");
+        
+        System.out.println("hola3,4");
     
     }
     
